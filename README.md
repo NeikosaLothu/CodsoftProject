@@ -26,6 +26,8 @@ bash
 Copy
 Edit
 java NumberGuessingGame
+
+
 2. Student Grade Calculator
 A program that calculates a student's total marks, average percentage, and assigns a grade based on their performance.
 
@@ -50,6 +52,8 @@ bash
 Copy
 Edit
 java StudentGrade
+
+
 3. ATM Interface
 A console-based ATM simulation that allows users to check their balance, withdraw, and deposit money securely.
 
