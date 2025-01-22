@@ -91,7 +91,7 @@ class ATM {
 
 public class AtmMachine {
     public static void main(String[] args) {
-        BankAccount myAccount = new BankAccount(5000); // Initial balance
+        BankAccount myAccount = new BankAccount(5000); 
         ATM myATM = new ATM(myAccount);
         myATM.start();
     }
